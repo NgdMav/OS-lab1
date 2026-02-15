@@ -45,7 +45,7 @@ int main(int argc, char* argv[])
     repFile << std::left << std::setw(10) << "Number"
         << std::setw(15) << "Name"
         << std::setw(15) << "Hours"
-        << std::setw(15) << "Salary\n";
+        << std::setw(15) << "Salary" << "\n";
     repFile << std::string(70, '-') << "\n";
 
     employee emp;
