@@ -1,7 +1,6 @@
 ﻿#include <iostream>
 #include <fstream>
 #include <iomanip>
-#include <cstring>
 
 #include "../lab1/employee.h"
 
